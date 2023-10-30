@@ -1,0 +1,2 @@
+import boss
+boss.sykology()
